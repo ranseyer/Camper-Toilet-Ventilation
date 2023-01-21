@@ -3,9 +3,11 @@
 SOG Deckel: https://www.thingiverse.com/thing:4139582 by daschenberg February 02, 2020
 License: CC BY-SA https://creativecommons.org/licenses/by-sa/3.0/
 
-
 Lüfteradapter: https://www.thingiverse.com/thing:21112 by TheMeerkat April 10, 2012
 License: CC BY-SA https://creativecommons.org/licenses/by-sa/3.0/
 
 Winkel-Luftschlauch: https://www.thingiverse.com/thing:4849865/files by Autanchaich May 05, 2021 
 License: CC BY-NC-ND https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Auslass-Haube: https://www.thingiverse.com/thing:5561667
+License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication / No Copyright: https://creativecommons.org/publicdomain/zero/1.0/
